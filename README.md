@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=250&section=header&text=Hi%2C%20I'm%20Shivam%20⚡&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Undergrad%20%7C%20Systems%20%26%20Full-Stack%20Builder%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/your-linkedin-url">
+<a href="https://www.linkedin.com/in/shivam-srivastava5736">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:shivamsrivastava5095@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/ShivamSrivastava0">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+multi-threaded+systems+in+C%2B%2B...;Shipping+full-stack+health-tech+platforms;Vision-based+clipboard+sharing+with+OpenCV;700%2B+DSA+problems+solved" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ShivamSrivastava0&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
 
 </div>
 
@@ -207,16 +207,16 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ShivamSrivastava0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSrivastava0&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=ShivamSrivastava0&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamSrivastava0&theme=tokyo-night&hide_border=true" width="95%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ShivamSrivastava0&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="90%"/>
 
 </div>
 
@@ -268,7 +268,7 @@
 
 ### 💬 Let's Build Something Great Together
 
-<a href="https://www.linkedin.com/in/your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shivam-srivastava5736"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shivamsrivastava5095@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
