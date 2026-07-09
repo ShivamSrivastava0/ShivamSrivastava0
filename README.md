@@ -64,7 +64,6 @@
 </div>
 
 ---
----
 # 💫 About Me
 
 ```cpp
@@ -135,27 +134,6 @@ public:
 
 </div>
 
----
-
-<!-- ========================= TECH STACK ========================= -->
-
-# 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,html,css,react,tailwind,nodejs,express,mongodb,mysql,postgres,docker,aws,git,github,vscode,postman,opencv&perline=10" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-`C++` • `Java` • `Python` • `JavaScript` • `React` • `Node.js` • `Express.js` • `MongoDB` • `PostgreSQL` • `MySQL` • `Docker` • `AWS` • `Git` • `GitHub` • `OpenCV`
-
-</div>
-
----
 ---
 
 # 📚 Core Computer Science
