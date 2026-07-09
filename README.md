@@ -42,8 +42,10 @@
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 </div>
---- <!-- ========================= TECH STACK ========================= -->
+--- 
+<!-- ========================= TECH STACK ========================= -->
 # 🛠 Tech Stack
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,html,css,react,tailwind,nodejs,express,mongodb,mysql,postgres,docker,aws,git,github,vscode,postman,opencv&perline=10" />
 
