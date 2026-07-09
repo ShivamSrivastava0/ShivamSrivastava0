@@ -48,14 +48,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Software+Engineering+Enthusiast;Building+Scalable+Systems+in+C%2B%2B;Full-Stack+Developer;700%2B+DSA+Problems+Solved;Amazon+ML+Summer+School+2026+Shortlisted;Always+Learning+Something+New+🚀"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=ShivamSrivastava0&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/ShivamSrivastava0?style=for-the-badge&logo=github"/>
