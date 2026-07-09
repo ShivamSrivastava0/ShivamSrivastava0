@@ -235,128 +235,143 @@ public:
 
 🔒 Secure & Scalable Software
 ```
+<!-- ========================= FEATURED PROJECTS ========================= -->
 
----
-<!-- ========================= LEETCODE ========================= -->
-
-# 🟧 LeetCode Journey
+# ⭐ Featured Projects
 
 <div align="center">
 
-### 💻 Consistency • Problem Solving • Continuous Learning
-
-<img src="https://leetcard.jacoblin.cool/Shivam_sri0?theme=dark&font=Baloo%202&ext=heatmap" width="95%"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Problems%20Solved-500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/DSA-700%2B%20Problems-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Daily%20Streak-200%2B-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Contest%20Participant-Active-success?style=for-the-badge"/>
+> *Projects that reflect my passion for building scalable systems, solving real-world problems, and writing clean, efficient code.*
 
 </div>
 
-<br>
+---
 
-> 💡 **Passionate about solving algorithmic challenges with a strong focus on writing efficient, optimized, and scalable solutions. Consistently practicing Data Structures & Algorithms to strengthen problem-solving skills for software engineering roles.**
+## 🌐 Custom API Gateway & Load Balancer
 
-<br>
+> **A high-performance multi-threaded API Gateway built from scratch in C++ using raw socket programming.**
 
-<div align="center">
+### 🚀 Highlights
 
-<a href="https://leetcode.com/u/Shivam_sri0/">
+- ⚡ Multi-threaded request handling using Thread Pool
+- 🔁 Round Robin Load Balancer
+- 🌐 HTTP Request Forwarding
+- 📡 Raw TCP Socket Programming
+- 📈 Designed for concurrent client handling
+- 🧪 Tested using Postman
 
-<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+### 🛠 Tech Stack
 
+`C++` `Socket Programming` `Multithreading` `Networking` `Postman`
+
+<div align="left">
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 ---
 
-# 🛠 Tech Stack
+## 🏥 Jivan Sanjivani
 
-<div align="center">
+> **A full-stack preventive healthcare platform focused on improving health awareness and digital medical management.**
 
-## 💻 Languages
+### 🚀 Highlights
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,html,css" />
+- 👨‍⚕️ Digital Health Records
+- 💊 Medicine Reminder System
+- 🚑 Emergency Contact Management
+- 🩺 First Aid & Wellness Resources
+- 📅 Personalized Health Dashboard
+- 🔒 Secure Authentication
 
-<br><br>
+### 🛠 Tech Stack
 
-## 🌐 Frontend
+`React` `Node.js` `MongoDB` `Express` `JavaScript`
 
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
+<div align="left">
 
-<br><br>
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
 
-## ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<br><br>
-
-## 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-
-<br><br>
-
-## ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-
-<br><br>
-
-## 🧰 Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,opencv" />
+<a href="YOUR_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 📚 Core Computer Science
+## ✋ AirClip
 
-<div align="center">
+> **A computer vision application that enables gesture-controlled clipboard sharing across devices.**
 
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge"/>
+### 🚀 Highlights
 
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-7B1FA2?style=for-the-badge"/>
+- ✋ Hand Gesture Recognition
+- 📷 OpenCV + MediaPipe
+- 📡 Cross-device Clipboard Sharing
+- ⚡ Local Network Communication
+- 🔒 Secure & Lightweight
+- 💻 Real-time Processing
 
-<img src="https://img.shields.io/badge/Operating%20Systems-1976D2?style=for-the-badge"/>
+### 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/DBMS-00695C?style=for-the-badge"/>
+`Python` `OpenCV` `MediaPipe` `Computer Vision`
 
-<img src="https://img.shields.io/badge/Computer%20Networks-455A64?style=for-the-badge"/>
+<div align="left">
 
-<img src="https://img.shields.io/badge/System%20Design%20Basics-6A1B9A?style=for-the-badge"/>
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 What I Love Building
+## 🤖 Python Automation Internship
+
+> **Completed an AICTE Government-backed internship focused on Python programming, automation, APIs, and data analysis.**
+
+### 🚀 Highlights
+
+- 🐍 Python Programming
+- 📊 NumPy & Pandas
+- 🌐 REST API Integration
+- ⚙️ Automation Scripts
+- 📈 Data Processing
+- 🧩 Hands-on Assessments
+
+### 🛠 Tech Stack
+
+`Python`
+
+`NumPy`
+
+`Pandas`
+
+`REST APIs`
+
+---
+
+# 💼 Project Philosophy
 
 ```text
-⚡ High Performance Backend Systems
+✔ Solve real-world problems
 
-🌐 Full Stack Web Applications
+✔ Write scalable and maintainable code
 
-🧠 Algorithmic Solutions
+✔ Focus on performance and clean architecture
 
-📡 Distributed & Networked Applications
+✔ Learn by building
 
-👁️ Computer Vision Projects
-
-🤖 AI-powered Applications
-
-🔒 Secure & Scalable Software
+✔ Continuously improve
 ```
 
+---
 ---
 <!-- ========================= ACHIEVEMENTS ========================= -->
 
