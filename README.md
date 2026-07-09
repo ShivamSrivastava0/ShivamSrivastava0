@@ -1,57 +1,158 @@
+<!-- ========================= HERO SECTION ========================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=250&section=header&text=Hi%2C%20I%27m%20Shivam&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Undergraduate%20%7C%20Systems%20Developer%20%7C%20Full-Stack%20Builder&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:00d4ff&text=Hi,%20I'm%20Shivam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Systems%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building Scalable Software • Solving Real-World Problems • Always Learning
+
+</div>
+
+<br>
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/shivam-srivastava5736">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shivamsrivastava5095@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ShivamSrivastava0">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<a href="https://leetcode.com/u/Shivam_sri0/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+High-Performance+Systems+in+C%2B%2B;Full-Stack+Developer;Computer+Vision+Enthusiast;700%2B+DSA+Problems+Solved;Always+Learning+Something+New" />
+<a href="https://www.codechef.com/users/shivamsri0">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ShivamSrivastava0&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
+<a href="https://www.geeksforgeeks.org/profile/shivamsrivastava5095">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 👋 About Me
+<div align="center">
 
-🎓 Penultimate-year **B.Tech Computer Science Engineering** student at **Lovely Professional University (2024–2028)** with a GPA of **8.39/10**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Software+Engineering+Enthusiast;Building+Scalable+Systems+in+C%2B%2B;Full-Stack+Developer;700%2B+DSA+Problems+Solved;Amazon+ML+Summer+School+2026+Shortlisted;Always+Learning+Something+New+🚀"/>
 
-I enjoy building systems that solve real-world problems, from **multi-threaded backend applications** to **full-stack web platforms** and **computer vision projects**.
+</div>
 
-My primary interests include:
+---
 
-- Data Structures & Algorithms
-- System Programming
-- Backend Development
-- Full-Stack Web Development
-- Computer Vision
-- Software Engineering
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ShivamSrivastava0&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/ShivamSrivastava0?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/ShivamSrivastava0?affiliations=OWNER&style=for-the-badge"/>
+
+</div>
 
 ---
 
 # 🚀 Highlights
 
-- 🏆 Amazon ML Summer School 2026 Shortlisted (Top **23.7%** among **134K+** applicants)
-- 💻 Solved **700+ DSA Problems**
-- 🔥 **200+ Day Coding Streak**
-- 🏅 **8+ Coding Badges**
-- 🤖 AICTE Python Automation Internship
-- 🌐 Building scalable systems in **C++**
-- 🚀 Passionate about Software Engineering
+<div align="center">
+
+| 🏆 Achievement | 📌 Details |
+|:---------------|:-----------|
+| 🚀 Amazon ML Summer School | **Top 23.7% among 134,421+ applicants** |
+| 💻 DSA | **700+ Problems Solved** |
+| 🟧 LeetCode | **500+ Problems Solved** |
+| 🔥 Coding Streak | **200+ Days** |
+| 🎓 GPA | **8.39 / 10** |
+| 🤖 Internship | **AICTE Python Automation Intern** |
+| 💼 Focus | **Software Engineering • Backend • Systems Programming** |
+
+</div>
+
+---
+
+# 💫 About Me
+
+```cpp
+class Shivam {
+public:
+
+    string education = "B.Tech CSE @ Lovely Professional University";
+
+    double cgpa = 8.39;
+
+    vector<string> interests = {
+        "Software Engineering",
+        "System Programming",
+        "Backend Development",
+        "Full Stack Development",
+        "Computer Vision",
+        "Data Structures & Algorithms"
+    };
+
+    string currentlyLearning =
+        "Advanced DSA • System Design • Backend Engineering";
+
+    string motto =
+        "Build. Learn. Improve. Repeat.";
+};
+```
+
+---
+
+> **"I enjoy building scalable software, solving challenging algorithmic problems, and continuously learning technologies that create real-world impact."**
+
+---
+<!-- ========================= LEETCODE ========================= -->
+
+# 🟧 LeetCode Journey
+
+<div align="center">
+
+### 💻 Consistency • Problem Solving • Continuous Learning
+
+<img src="https://leetcard.jacoblin.cool/Shivam_sri0?theme=dark&font=Baloo%202&ext=heatmap" width="95%"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Problems%20Solved-500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DSA-700%2B%20Problems-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Daily%20Streak-200%2B-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Contest%20Participant-Active-success?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+> 💡 **Passionate about solving algorithmic challenges with a strong focus on writing efficient, optimized, and scalable solutions. Consistently practicing Data Structures & Algorithms to strengthen problem-solving skills for software engineering roles.**
+
+<br>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Shivam_sri0/">
+
+<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
+</div>
 
 ---
 
@@ -59,145 +160,218 @@ My primary interests include:
 
 <div align="center">
 
-### Languages
+## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css" />
-
-### Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,opencv" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
-
-</div>
-
----
-
-# 💼 Featured Projects
-
-## 🌐 Custom API Gateway & Load Balancer
-
-**Tech Stack**
-
-`C++` `Socket Programming` `Multithreading`
-
-### Features
-
-- Multi-threaded API Gateway
-- Raw Socket Programming
-- Thread Pool
-- Round Robin Load Balancer
-- HTTP Request Forwarding
-- Backend Server Routing
-- Postman Tested
-
----
-
-## 🏥 Jivan Sanjivani
-
-**Preventive Healthcare Platform**
-
-`React`
-`Node.js`
-`MongoDB`
-
-### Features
-
-- Digital Health Records
-- Medicine Reminders
-- Emergency Contacts
-- First Aid Guide
-- Personalized Health Dashboard
-- Preventive Healthcare Resources
-
----
-## ✋ AirClip
-
-**Vision-Based Clipboard Sharing System**
-
-`Python` `OpenCV` `MediaPipe`
-
-### Features
-
-- Gesture-controlled clipboard sharing
-- Real-time hand tracking
-- Cross-device communication
-- Local network transfer
-- Fast and secure clipboard synchronization
-
----
-
-## 🐍 Python Automation Internship
-
-**AICTE Government-backed Internship**  
-**Myna Seva Foundation**
-
-`Python` `NumPy` `Pandas` `API Integration`
-
-### Highlights
-
-- Python programming fundamentals
-- Data manipulation using NumPy & Pandas
-- REST API integration
-- Automation scripts
-- Hands-on assessments and projects
-
----
-
-# 🏆 Achievements
-
-- 🏆 **Amazon ML Summer School 2026**
-  - Shortlisted from **134,421+ applicants**
-  - Ranked in the **Top 23.7%**
-
-- 💻 **700+ DSA Problems Solved**
-
-- 🟧 **500+ LeetCode Problems**
-
-- 🔥 **200+ Day Coding Streak**
-
-- 🏅 **8+ Coding Badges**
-
-- 🤖 **Infosys SpringBoard**
-  - Generative AI Certification
-
----
-
-# 💻 Competitive Programming
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/CodeChef-Active-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DSA-700%2B%20Problems-brightgreen?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🟧 LeetCode
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Shivam_sri0?theme=dark&font=Baloo%202&ext=heatmap" width="90%"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,html,css" />
 
 <br><br>
+
+## 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+
+<br><br>
+
+## ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br><br>
+
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+
+<br><br>
+
+## ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+<br><br>
+
+## 🧰 Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,opencv" />
+
+</div>
+
+---
+
+# 📚 Core Computer Science
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-7B1FA2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Operating%20Systems-1976D2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DBMS-00695C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Networks-455A64?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System%20Design%20Basics-6A1B9A?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🚀 What I Love Building
+
+```text
+⚡ High Performance Backend Systems
+
+🌐 Full Stack Web Applications
+
+🧠 Algorithmic Solutions
+
+📡 Distributed & Networked Applications
+
+👁️ Computer Vision Projects
+
+🤖 AI-powered Applications
+
+🔒 Secure & Scalable Software
+```
+
+---
+<!-- ========================= LEETCODE ========================= -->
+
+# 🟧 LeetCode Journey
+
+<div align="center">
+
+### 💻 Consistency • Problem Solving • Continuous Learning
+
+<img src="https://leetcard.jacoblin.cool/Shivam_sri0?theme=dark&font=Baloo%202&ext=heatmap" width="95%"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Problems%20Solved-500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DSA-700%2B%20Problems-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Daily%20Streak-200%2B-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Contest%20Participant-Active-success?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+> 💡 **Passionate about solving algorithmic challenges with a strong focus on writing efficient, optimized, and scalable solutions. Consistently practicing Data Structures & Algorithms to strengthen problem-solving skills for software engineering roles.**
+
+<br>
+
+<div align="center">
 
 <a href="https://leetcode.com/u/Shivam_sri0/">
 
 <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
 </a>
+
+</div>
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+## 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,html,css" />
+
+<br><br>
+
+## 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+
+<br><br>
+
+## ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br><br>
+
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+
+<br><br>
+
+## ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+<br><br>
+
+## 🧰 Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,opencv" />
+
+</div>
+
+---
+
+# 📚 Core Computer Science
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-7B1FA2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Operating%20Systems-1976D2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DBMS-00695C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Networks-455A64?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System%20Design%20Basics-6A1B9A?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🚀 What I Love Building
+
+```text
+⚡ High Performance Backend Systems
+
+🌐 Full Stack Web Applications
+
+🧠 Algorithmic Solutions
+
+📡 Distributed & Networked Applications
+
+👁️ Computer Vision Projects
+
+🤖 AI-powered Applications
+
+🔒 Secure & Scalable Software
+```
+
+---
+<!-- ========================= ACHIEVEMENTS ========================= -->
+
+# 🏆 Achievements
+
+<div align="center">
+
+| 🏅 Achievement | 📌 Details |
+|:--------------|:-----------|
+| 🚀 Amazon ML Summer School 2026 | Selected among **134,421+ applicants** (Top **23.7%**) |
+| 💻 DSA | Solved **700+** coding problems across platforms |
+| 🟧 LeetCode | Solved **500+** problems with **200+ day** coding streak |
+| 🏆 Hackathons | Active participant in national hackathons and coding competitions |
+| 🎓 Academic Performance | **8.39 CGPA** in B.Tech Computer Science Engineering |
+| 🌟 Open Source | Building practical projects and continuously improving engineering skills |
 
 </div>
 
@@ -213,202 +387,182 @@ My primary interests include:
 
 <img src="https://img.shields.io/badge/Infosys-Generative%20AI-007CC3?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/AICTE-Python%20Automation-4CAF50?style=for-the-badge"/>
+
 </div>
 
 ---
-# 📈 GitHub Analytics
+
+# 💼 Experience
+
+## 👨‍💻 AICTE Python Automation Intern
+**Myna Seva Foundation**
+
+- Built Python automation scripts for practical workflows
+- Worked with **NumPy**, **Pandas**, and **REST APIs**
+- Learned automation, scripting, and data processing
+- Completed hands-on assessments and real-world tasks
+
+---
+
+# 🎓 Education
+
+### 🎓 Lovely Professional University
+
+**Bachelor of Technology (Computer Science & Engineering)**
+
+📅 **2024 – 2028**
+
+🎯 **CGPA:** **8.39 / 10**
+
+---
+
+# 🌱 Currently Learning
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShivamSrivastava0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSrivastava0&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ShivamSrivastava0&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://skillicons.dev/icons?i=cpp,react,nodejs,docker,aws"/>
 
 </div>
 
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamSrivastava0&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShivamSrivastava0&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=10&no-frame=true"/>
-
-</div>
+- ⚡ Advanced Data Structures & Algorithms
+- 🏗️ System Design Fundamentals
+- ⚙️ Backend Engineering with C++
+- ☁️ Cloud Computing (AWS)
+- 🐳 Docker & Containerization
+- 📡 Distributed Systems
+- 🔐 Authentication & Security
+- 🤖 AI-powered Applications
 
 ---
 
-# 🌐 Coding Profiles
+# 🎯 2026 Goals
 
-<div align="center">
-
-<a href="https://leetcode.com/u/Shivam_sri0/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/users/shivamsri0">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/shivamsrivastava5095">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</div>
+- ✅ Solve **1000+ DSA Problems**
+- 🏆 Achieve Knight Rating on LeetCode
+- 🚀 Build production-ready backend systems
+- 🌐 Contribute to Open Source
+- 📚 Master System Design
+- ☁️ Earn AWS Cloud Certifications
+- 💼 Secure a Software Engineering Internship at a top product-based company
 
 ---
 
-## 🟧 LeetCode
+# 💡 Fun Fact
 
-- 💻 **500+ Problems Solved**
-- 🔥 Daily Practice
-- 🏅 Badge Collector
-- 🚀 Strong problem-solving skills
-
----
-
-## ⚫ CodeChef
-
-- Competitive Programming
-- Regular Contest Participation
-- Strong Algorithmic Thinking
-- Consistent Coding Practice
-
----
-
-## 🟢 GeeksforGeeks
-
-- 700+ DSA Problems (combined)
-- Excellent DSA Foundation
-- Interview Preparation
-- Active Learner
-
----
-
-# 📚 Core Subjects
-
-- Data Structures & Algorithms
-- Operating Systems
-- Database Management Systems
-- Computer Networks
-- Object-Oriented Programming
-- System Design Fundamentals
-- Software Engineering
-
----
-
-# 🎯 Current Focus
-
-- 🚀 Advanced DSA
-- ⚙️ System Design
-- 🖥️ Backend Development
-- 🌐 Full-Stack Development
-- 🤖 AI & Computer Vision
-- ☁️ Cloud Technologies
-- 💼 Software Engineering Internships
-
----
-
-# 📬 Let's Connect
-
-<div align="center">
-
-<a href="mailto:shivamsrivastava5095@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shivam-srivastava5736">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ShivamSrivastava0">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Shivam_sri0/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/users/shivamsri0">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/shivamsrivastava5095">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🤝 Open To
-
-- 💼 Software Engineering Internships
-- 🌍 Open Source Collaboration
-- 🚀 Backend & Systems Projects
-- 🤖 AI / Machine Learning Projects
-- 🖥️ Full-Stack Development
-- ⚙️ High Performance C++ Projects
-- 📚 Learning & Networking
-
----
-
-# 💡 Philosophy
-
-> **"Write code that solves real problems, keep learning every day, and strive to build software that creates meaningful impact."**
-
----
-
-# 📌 Quick Facts
-
-```text
-🎓 B.Tech CSE @ Lovely Professional University
-⭐ GPA: 8.39 / 10
-💻 700+ DSA Problems Solved
-🟧 500+ LeetCode Problems
-🔥 200+ Day Coding Streak
-🏆 Amazon ML Summer School 2026 Shortlisted
-🌐 Full-Stack Developer
-⚙️ C++ Systems Programmer
-🤖 Computer Vision Enthusiast
+```cpp
+while (!success) {
+    learn();
+    build();
+    debug();
+    improve();
+}
 ```
 
----
-
-# 📈 Profile Summary
-
-- Passionate Software Developer
-- Strong Problem Solver
-- Backend & Systems Enthusiast
-- Full-Stack Developer
-- Continuous Learner
-- Team Player
-- Always Building
+> **"Consistency beats intensity. Small improvements every day lead to extraordinary results."**
 
 ---
+<!-- ========================= ACHIEVEMENTS ========================= -->
+
+# 🏆 Achievements
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
-
-If you like my work, consider **starring my repositories** or connecting with me on LinkedIn.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=120&section=footer"/>
+| 🏅 Achievement | 📌 Details |
+|:--------------|:-----------|
+| 🚀 Amazon ML Summer School 2026 | Selected among **134,421+ applicants** (Top **23.7%**) |
+| 💻 DSA | Solved **700+** coding problems across platforms |
+| 🟧 LeetCode | Solved **500+** problems with **200+ day** coding streak |
+| 🏆 Hackathons | Active participant in national hackathons and coding competitions |
+| 🎓 Academic Performance | **8.39 CGPA** in B.Tech Computer Science Engineering |
+| 🌟 Open Source | Building practical projects and continuously improving engineering skills |
 
 </div>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-Data%20Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Infosys-Generative%20AI-007CC3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AICTE-Python%20Automation-4CAF50?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💼 Experience
+
+## 👨‍💻 AICTE Python Automation Intern
+**Myna Seva Foundation**
+
+- Built Python automation scripts for practical workflows
+- Worked with **NumPy**, **Pandas**, and **REST APIs**
+- Learned automation, scripting, and data processing
+- Completed hands-on assessments and real-world tasks
+
+---
+
+# 🎓 Education
+
+### 🎓 Lovely Professional University
+
+**Bachelor of Technology (Computer Science & Engineering)**
+
+📅 **2024 – 2028**
+
+🎯 **CGPA:** **8.39 / 10**
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,react,nodejs,docker,aws"/>
+
+</div>
+
+- ⚡ Advanced Data Structures & Algorithms
+- 🏗️ System Design Fundamentals
+- ⚙️ Backend Engineering with C++
+- ☁️ Cloud Computing (AWS)
+- 🐳 Docker & Containerization
+- 📡 Distributed Systems
+- 🔐 Authentication & Security
+- 🤖 AI-powered Applications
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Solve **1000+ DSA Problems**
+- 🏆 Achieve Knight Rating on LeetCode
+- 🚀 Build production-ready backend systems
+- 🌐 Contribute to Open Source
+- 📚 Master System Design
+- ☁️ Earn AWS Cloud Certifications
+- 💼 Secure a Software Engineering Internship at a top product-based company
+
+---
+
+# 💡 Fun Fact
+
+```cpp
+while (!success) {
+    learn();
+    build();
+    debug();
+    improve();
+}
+```
+
+> **"Consistency beats intensity. Small improvements every day lead to extraordinary results."**
+
+---
