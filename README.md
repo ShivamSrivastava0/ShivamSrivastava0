@@ -65,25 +65,6 @@
 </div>
 
 ---
-
-# 🚀 Highlights
-
-<div align="center">
-
-| 🏆 Achievement | 📌 Details |
-|:---------------|:-----------|
-| 🚀 Amazon ML Summer School | **Top 23.7% among 134,421+ applicants** |
-| 💻 DSA | **700+ Problems Solved** |
-| 🟧 LeetCode | **500+ Problems Solved** |
-| 🔥 Coding Streak | **200+ Days** |
-| 🎓 GPA | **8.39 / 10** |
-| 🤖 Internship | **AICTE Python Automation Intern** |
-| 💼 Focus | **Software Engineering • Backend • Systems Programming** |
-
-</div>
-
----
-
 # 💫 About Me
 
 ```cpp
