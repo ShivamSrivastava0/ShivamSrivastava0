@@ -160,39 +160,7 @@ public:
 
 <div align="center">
 
-## 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,html,css" />
-
-<br><br>
-
-## 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-
-<br><br>
-
-## ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<br><br>
-
-## 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-
-<br><br>
-
-## ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-
-<br><br>
-
-## 🧰 Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,opencv" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,html,css,react,tailwind,nodejs,express,mongodb,mysql,postgres,docker,aws,git,github,vscode,postman,opencv&perline=10" />
 
 </div>
 
