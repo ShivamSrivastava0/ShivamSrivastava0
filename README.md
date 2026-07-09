@@ -228,18 +228,25 @@ public:
 - 📈 Designed for concurrent client handling
 - 🧪 Tested using Postman
 
-### 🛠 Tech Stack
+<!-- ========================= TECH STACK ========================= -->
 
-`C++` `Socket Programming` `Multithreading` `Networking` `Postman`
+# 🛠 Tech Stack
 
-<div align="left">
+<div align="center">
 
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,html,css,react,tailwind,nodejs,express,mongodb,mysql,postgres,docker,aws,git,github,vscode,postman,opencv&perline=10" />
 
 </div>
 
+<br>
+
+<div align="center">
+
+`C++` • `Java` • `Python` • `JavaScript` • `React` • `Node.js` • `Express.js` • `MongoDB` • `PostgreSQL` • `MySQL` • `Docker` • `AWS` • `Git` • `GitHub` • `OpenCV`
+
+</div>
+
+---
 ---
 
 ## 🏥 Jivan Sanjivani
