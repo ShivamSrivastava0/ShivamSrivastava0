@@ -1,280 +1,414 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:00d4ff&amp;height=250&amp;section=header&amp;text=Hi%2C%20I'm%20Shivam%20⚡&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Computer%20Science%20Undergrad%20%7C%20Systems%20%26%20Full-Stack%20Builder%20%7C%20Competitive%20Programmer&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=250&section=header&text=Hi%2C%20I%27m%20Shivam&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Undergraduate%20%7C%20Systems%20Developer%20%7C%20Full-Stack%20Builder&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://www.linkedin.com/in/shivam-srivastava5736">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:shivamsrivastava5095@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/ShivamSrivastava0">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/>
+<br><br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+multi-threaded+systems+in+C%2B%2B...;Shipping+full-stack+health-tech+platforms;Vision-based+clipboard+sharing+with+OpenCV;700%2B+DSA+problems+solved" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+High-Performance+Systems+in+C%2B%2B;Full-Stack+Developer;Computer+Vision+Enthusiast;700%2B+DSA+Problems+Solved;Always+Learning+Something+New" />
 
-<img src="https://komarev.com/ghpvc/?username=ShivamSrivastava0&amp;label=Profile%20Views&amp;color=00d4ff&amp;style=for-the-badge" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ShivamSrivastava0&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
 
 </div>
 
-<br/>
+---
+
+# 👋 About Me
+
+🎓 Penultimate-year **B.Tech Computer Science Engineering** student at **Lovely Professional University (2024–2028)** with a GPA of **8.39/10**.
+
+I enjoy building systems that solve real-world problems, from **multi-threaded backend applications** to **full-stack web platforms** and **computer vision projects**.
+
+My primary interests include:
+
+- Data Structures & Algorithms
+- System Programming
+- Backend Development
+- Full-Stack Web Development
+- Computer Vision
+- Software Engineering
+
+---
+
+# 🚀 Highlights
+
+- 🏆 Amazon ML Summer School 2026 Shortlisted (Top **23.7%** among **134K+** applicants)
+- 💻 Solved **700+ DSA Problems**
+- 🔥 **200+ Day Coding Streak**
+- 🏅 **8+ Coding Badges**
+- 🤖 AICTE Python Automation Internship
+- 🌐 Building scalable systems in **C++**
+- 🚀 Passionate about Software Engineering
+
+---
+
+# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎓_GPA-8.39%2F10-0a0e1a?style=plastic&amp;labelColor=141830&amp;color=0891b2"/>
-<img src="https://img.shields.io/badge/🧩_DSA_SOLVED-700%2B-0a0e1a?style=plastic&amp;labelColor=141830&amp;color=6d28d9"/>
-<img src="https://img.shields.io/badge/🚀_AMAZON_ML_SUMMER_SCHOOL-TOP_23.7%25-0a0e1a?style=plastic&amp;labelColor=141830&amp;color=0891b2"/>
-<img src="https://img.shields.io/badge/🔥_STREAK-200%2B_DAYS-0a0e1a?style=plastic&amp;labelColor=141830&amp;color=6d28d9"/>
-<img src="https://img.shields.io/badge/⭐_BADGES_EARNED-8%2B-0a0e1a?style=plastic&amp;labelColor=141830&amp;color=0891b2"/>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css" />
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,opencv" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 
 </div>
 
-<br/>
+---
 
-> 🎯 **Shortlisted for Amazon ML Summer School 2026**, advancing from 1,34,421+ applicants (Top 23.7%) · 🧵 Built a **multi-threaded API Gateway** in C++ from scratch · 🖐️ Building a **gesture-controlled clipboard sharing system**
+# 💼 Featured Projects
 
-<br/>
+## 🌐 Custom API Gateway & Load Balancer
 
-## 🙋 About Me
+**Tech Stack**
 
-- 🎓 Penultimate-year **B.Tech CSE** student at **Lovely Professional University** (2024–2028), GPA **8.39/10**
-- 🧠 Strong foundations in **DSA, OS, DBMS, Computer Networks, and OOP**
-- 🏗️ I build **scalable systems, real-time applications, and automation pipelines** — not just class projects
-- 🖥️ Comfortable across the stack: low-level socket programming in C++ to full-stack web apps to computer vision
-- 💼 Completed an **AICTE government-backed Python Automation internship** at Myna Seva Foundation
-- 📫 Let's talk: **shivamsrivastava5095@gmail.com**
+`C++` `Socket Programming` `Multithreading`
 
-<br/>
+### Features
 
-## 🛠️ Tech Stack
+- Multi-threaded API Gateway
+- Raw Socket Programming
+- Thread Pool
+- Round Robin Load Balancer
+- HTTP Request Forwarding
+- Backend Server Routing
+- Postman Tested
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,mongodb,postgres,mysql,git,github,docker,opencv,vscode,postman&amp;theme=dark" />
+## 🏥 Jivan Sanjivani
 
-</div>
+**Preventive Healthcare Platform**
 
-<br/>
+`React`
+`Node.js`
+`MongoDB`
 
-<div align="center">
+### Features
 
-**Languages** &amp;nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white"/>
+- Digital Health Records
+- Medicine Reminders
+- Emergency Contacts
+- First Aid Guide
+- Personalized Health Dashboard
+- Preventive Healthcare Resources
 
-**Databases** &amp;nbsp;
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white"/>
+---
+## ✋ AirClip
 
-**Web Dev** &amp;nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black"/>
-
-**Libraries &amp; Tools** &amp;nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white"/>
-
-`Data Structures &amp; Algorithms` `Socket Programming` `Multi-threading` `OOP` `System Design Basics`
-
-</div>
-
-<br/>
-
-## 💼 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Custom API Gateway &amp; Load Balancer
-**Multi-threaded systems programming in C++**
-
-`C++` `Socket Programming` `Multi-threading` `Postman`
-
-- Built a **multi-threaded API Gateway** using raw socket programming to forward HTTP requests to backend servers
-- Implemented a **thread pool** for concurrent request handling
-- Designed **Round Robin load balancing** logic; validated behavior using Postman
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Jivan Sanjivani — Preventive Healthcare Platform
-**Full-stack family medical management ecosystem**
-
-`Full-Stack` `Auth` `Health-Tech`
-
-- Enabled users to securely manage **medical profiles, emergency contacts, medicine schedules &amp; digital health records**
-- Built personalized **health dashboards, medicine reminders, and first-aid guidance**
-- Added wellness modules (health tips, yoga, exercise) for preventive care
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✋ AirClip — Intelligent Clipboard Sharing
-**Vision-based cross-device transfer system**
+**Vision-Based Clipboard Sharing System**
 
 `Python` `OpenCV` `MediaPipe`
 
-- Uses **hand-gesture recognition** to transfer clipboard text &amp; images between devices
-- Works over a **local network**, no manual copy-paste required
-- Combines computer vision with real-time device communication
+### Features
 
-</td>
-<td width="50%" valign="top">
+- Gesture-controlled clipboard sharing
+- Real-time hand tracking
+- Cross-device communication
+- Local network transfer
+- Fast and secure clipboard synchronization
 
-### 🐍 Python Essentials &amp; Automation Internship
-**AICTE government-backed program · Myna Seva Foundation**
+---
+
+## 🐍 Python Automation Internship
+
+**AICTE Government-backed Internship**  
+**Myna Seva Foundation**
 
 `Python` `NumPy` `Pandas` `API Integration`
 
-- Mentor-guided sessions with technical assessments and hands-on assignments
-- Hands-on work in **Python programming, API integration, NumPy &amp; Pandas**
+### Highlights
 
-</td>
-</tr>
-</table>
+- Python programming fundamentals
+- Data manipulation using NumPy & Pandas
+- REST API integration
+- Automation scripts
+- Hands-on assessments and projects
 
-<br/>
+---
 
-## 🏆 Achievements &amp; Competitive Programming
+# 🏆 Achievements
+
+- 🏆 **Amazon ML Summer School 2026**
+  - Shortlisted from **134,421+ applicants**
+  - Ranked in the **Top 23.7%**
+
+- 💻 **700+ DSA Problems Solved**
+
+- 🟧 **500+ LeetCode Problems**
+
+- 🔥 **200+ Day Coding Streak**
+
+- 🏅 **8+ Coding Badges**
+
+- 🤖 **Infosys SpringBoard**
+  - Generative AI Certification
+
+---
+
+# 💻 Competitive Programming
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CodeChef-Active-5B4638?style=for-the-badge&amp;logo=codechef&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/LeetCode-500%2B_Solved-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/>
-<img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA%20Problems-700%2B-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/CodeChef-Active-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DSA-700%2B%20Problems-brightgreen?style=for-the-badge"/>
 
 </div>
 
-- 🚀 **Amazon ML Summer School 2026** — shortlisted from **1,34,421+ applicants (Top 23.7%)**, a prestigious ML program by Amazon for high-potential students
-- 💯 **700+ problems** solved across CodeChef &amp; GeeksforGeeks with a **200+ day active streak**
-- 🟧 **500+ problems** solved on LeetCode
-- 🏅 **8+ badges** earned across CodeChef, GeeksforGeeks, LeetCode &amp; GitHub
-- 🤖 **Generative AI certification** from Infosys SpringBoard
+---
 
-<br/>
-
-## 🟧 LeetCode Badges &amp; Stats
+# 🟧 LeetCode
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Shivam_sri0?theme=dark&amp;font=Baloo%202&amp;ext=heatmap" width="90%"/>
+<img src="https://leetcard.jacoblin.cool/Shivam_sri0?theme=dark&font=Baloo%202&ext=heatmap" width="90%"/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🏅_LeetCode-500%2B_Problems_Solved-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/>
-<img src="https://img.shields.io/badge/🔥_Active_Streak-200%2B_Days-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⭐_Badges_Unlocked-8%2B-yellow?style=for-the-badge"/>
-
-<br/><br/>
+<br><br>
 
 <a href="https://leetcode.com/u/Shivam_sri0/">
-  <img src="https://img.shields.io/badge/View_Full_Profile-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/>
+
+<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </a>
 
 </div>
 
-<br/>
+---
 
-## 📜 Certifications
+# 📜 Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20AI%20Foundations%20Associate-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Data%20Engineering%20Foundations-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Infosys%20SpringBoard-Generative%20AI-1A73E8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-Data%20Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Infosys-Generative%20AI-007CC3?style=for-the-badge"/>
 
 </div>
 
-<br/>
-
-## 📈 GitHub Stats
+---
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ShivamSrivastava0&amp;show_icons=true&amp;theme=tokyonight&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=true&amp;rank_icon=github"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSrivastava0&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShivamSrivastava0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github"/>
 
-<img src="https://streak-stats.demolab.com?user=ShivamSrivastava0&amp;theme=tokyonight&amp;hide_border=true" width="48%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSrivastava0&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamSrivastava0&amp;theme=tokyo-night&amp;hide_border=true" width="95%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShivamSrivastava0&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=8&amp;margin-h=8" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=ShivamSrivastava0&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
 
-<br/>
+---
+
+# 📊 Contribution Graph
 
 <div align="center">
 
-### 🌐 Coding Profile Achievements
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamSrivastava0&theme=tokyo-night&hide_border=true" width="100%"/>
 
-<a href="https://leetcode.com/u/Shivam_sri0/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/></a>
-<a href="https://www.codechef.com/users/shivamsri0"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&amp;logo=codechef&amp;logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/profile/shivamsrivastava5095"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white"/></a>
+</div>
 
-<br/><br/>
+---
 
-<table>
-<tr>
-<td width="33%" valign="top">
+# 🏆 GitHub Trophies
 
-**🟧 [LeetCode](https://leetcode.com/u/Shivam_sri0/)**
+<div align="center">
 
-- **500+ problems solved**
-- Active badge collector
-- Consistent daily practice
+<img src="https://github-profile-trophy.vercel.app/?username=ShivamSrivastava0&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=10&no-frame=true"/>
 
-</td>
-<td width="33%" valign="top">
+</div>
 
-**⚫ [CodeChef](https://www.codechef.com/users/shivamsri0)**
+---
 
-- Part of **700+ problems** solved (with GFG)
-- 200+ days active streak
-- Active competitive programmer
+# 🌐 Coding Profiles
 
-</td>
-<td width="33%" valign="top">
+<div align="center">
 
-**🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/shivamsrivastava5095)**
+<a href="https://leetcode.com/u/Shivam_sri0/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-- Part of **700+ problems** solved (with CodeChef)
-- 200+ days active streak
-- Strong DSA fundamentals
+<a href="https://www.codechef.com/users/shivamsri0">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
-</td>
-</tr>
-</table>
+<a href="https://www.geeksforgeeks.org/profile/shivamsrivastava5095">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
-<br/>
+</div>
 
-### 💬 Let's Build Something Great Together
+---
 
-<a href="https://www.linkedin.com/in/shivam-srivastava5736"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-<a href="mailto:shivamsrivastava5095@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+## 🟧 LeetCode
 
-<br/><br/>
+- 💻 **500+ Problems Solved**
+- 🔥 Daily Practice
+- 🏅 Badge Collector
+- 🚀 Strong problem-solving skills
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00d4ff,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" width="100%"/>
+---
 
-*"Thanks for stopping by — always open to collaborating on interesting systems, full-stack, and DSA challenges!"* 🚀
+## ⚫ CodeChef
+
+- Competitive Programming
+- Regular Contest Participation
+- Strong Algorithmic Thinking
+- Consistent Coding Practice
+
+---
+
+## 🟢 GeeksforGeeks
+
+- 700+ DSA Problems (combined)
+- Excellent DSA Foundation
+- Interview Preparation
+- Active Learner
+
+---
+
+# 📚 Core Subjects
+
+- Data Structures & Algorithms
+- Operating Systems
+- Database Management Systems
+- Computer Networks
+- Object-Oriented Programming
+- System Design Fundamentals
+- Software Engineering
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Advanced DSA
+- ⚙️ System Design
+- 🖥️ Backend Development
+- 🌐 Full-Stack Development
+- 🤖 AI & Computer Vision
+- ☁️ Cloud Technologies
+- 💼 Software Engineering Internships
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:shivamsrivastava5095@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivam-srivastava5736">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ShivamSrivastava0">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Shivam_sri0/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/shivamsri0">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/shivamsrivastava5095">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🤝 Open To
+
+- 💼 Software Engineering Internships
+- 🌍 Open Source Collaboration
+- 🚀 Backend & Systems Projects
+- 🤖 AI / Machine Learning Projects
+- 🖥️ Full-Stack Development
+- ⚙️ High Performance C++ Projects
+- 📚 Learning & Networking
+
+---
+
+# 💡 Philosophy
+
+> **"Write code that solves real problems, keep learning every day, and strive to build software that creates meaningful impact."**
+
+---
+
+# 📌 Quick Facts
+
+```text
+🎓 B.Tech CSE @ Lovely Professional University
+⭐ GPA: 8.39 / 10
+💻 700+ DSA Problems Solved
+🟧 500+ LeetCode Problems
+🔥 200+ Day Coding Streak
+🏆 Amazon ML Summer School 2026 Shortlisted
+🌐 Full-Stack Developer
+⚙️ C++ Systems Programmer
+🤖 Computer Vision Enthusiast
+```
+
+---
+
+# 📈 Profile Summary
+
+- Passionate Software Developer
+- Strong Problem Solver
+- Backend & Systems Enthusiast
+- Full-Stack Developer
+- Continuous Learner
+- Team Player
+- Always Building
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting!
+
+If you like my work, consider **starring my repositories** or connecting with me on LinkedIn.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
