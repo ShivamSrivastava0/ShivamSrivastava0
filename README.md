@@ -45,17 +45,25 @@
 </div>
 
 ---
+<!-- ========================= TECH STACK ========================= -->
+
+# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ShivamSrivastava0&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/ShivamSrivastava0?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/ShivamSrivastava0?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,html,css,react,tailwind,nodejs,express,mongodb,mysql,postgres,docker,aws,git,github,vscode,postman,opencv&perline=10" />
 
 </div>
 
+<br>
+
+<div align="center">
+
+`C++` • `Java` • `Python` • `JavaScript` • `React` • `Node.js` • `Express.js` • `MongoDB` • `PostgreSQL` • `MySQL` • `Docker` • `AWS` • `Git` • `GitHub` • `OpenCV`
+
+</div>
+
+---
 ---
 # 💫 About Me
 
