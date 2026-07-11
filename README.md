@@ -257,31 +257,6 @@ public:
 
 ---
 
-## 🤖 Python Automation Internship
-
-> **Completed an AICTE Government-backed internship focused on Python programming, automation, APIs, and data analysis.**
-
-### 🚀 Highlights
-
-- 🐍 Python Programming
-- 📊 NumPy & Pandas
-- 🌐 REST API Integration
-- ⚙️ Automation Scripts
-- 📈 Data Processing
-- 🧩 Hands-on Assessments
-
-### 🛠 Tech Stack
-
-`Python`
-
-`NumPy`
-
-`Pandas`
-
-`REST APIs`
-
----
-
 # 💼 Project Philosophy
 
 ```text
